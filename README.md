@@ -10,3 +10,4 @@ and view our [YouTube Channel](https://www.youtube.com/channel/UCbyU3MME46U1w419
 
 All news about the project we will also publish on [Twitter](https://twitter.com/Obd2Network)
 
+You can read [here](https://github.com/OBD2Network/OBD2Network/create_hw/create_hw.md) about creating your hardware
