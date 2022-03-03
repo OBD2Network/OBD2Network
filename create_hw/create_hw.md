@@ -14,7 +14,7 @@ You need the following:
 - PC with Windows 8.1, 10
 - Adapter Korlan USB2CAN DB9 ([you can buy it here](https://shop.8devices.com/index.php?route=product/product&path=67&product_id=95))
 ![USB2CAN DB9](https://github.com/OBD2Network/OBD2Network/blob/main/create_hw/USB2CAN_DB9.jpg)
-- Schematic diagram
+- A custom electronic board
 ![Schematic diagram](https://github.com/OBD2Network/OBD2Network/blob/main/create_hw/Schematic.jpg)
 	- PCB Board ([buy](https://www.amazon.com/s?k=Prototype+Printed+Circuit+Board+Soldering))
 	- J1 - DB9 Connector (female) ([you can buy it here](https://www.amazon.com/s?k=DB9+Connector+Female+Solder+Type+9+pins))
