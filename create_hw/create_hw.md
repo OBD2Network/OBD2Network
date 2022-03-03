@@ -16,7 +16,7 @@ You need the following:
 ![USB2CAN DB9](https://github.com/OBD2Network/OBD2Network/blob/main/create_hw/USB2CAN_DB9.jpg)
 - A custom electronic board
 ![Schematic diagram](https://github.com/OBD2Network/OBD2Network/blob/main/create_hw/Schematic.jpg)
-	- PCB Board ([buy](https://www.amazon.com/s?k=Prototype+Printed+Circuit+Board+Soldering))
+	- PCB Board ([you can buy it here](https://www.amazon.com/s?k=Prototype+Printed+Circuit+Board+Soldering))
 	- J1 - DB9 Connector (female) ([you can buy it here](https://www.amazon.com/s?k=DB9+Connector+Female+Solder+Type+9+pins))
 	- J2 - DC Power Supply Jack Socket Female (female) ([you can buy it here](https://www.amazon.com/s?k=female+DC+Power+Socket+Panel+Mount+2.5mm+5.5mm&s=price-asc-rank))
 	- J3 - OBD-II connector(female) ([you can buy it here](https://www.amazon.com/s?k=16+Pin+J1962+OBD2+OBD-II+Female+Connector&s=price-asc-rank))
