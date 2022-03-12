@@ -17,15 +17,19 @@ That’s all a client needs to do.
 
 ## Operator-side:
 - Log in: 
+
 ![Log in](https://github.com/OBD2Network/OBD2Network/blob/main/application/login.png)
 
 - You should see two devices: the client’s device and the operator’s hardware stand:
+
 ![Log in](https://github.com/OBD2Network/OBD2Network/blob/main/application/connect.png)
 
 - Operator needs to press Connect and choose the local device (the operator’s hardware stand): 
+
 ![Log in](https://github.com/OBD2Network/OBD2Network/blob/main/application/connect-params.png)
 
 - If everything was done right, you will see this:
+
 ![Log in](https://github.com/OBD2Network/OBD2Network/blob/main/application/disconnect.png)
 
 - Now you can start testing your tools. 
